@@ -1,5 +1,7 @@
 # fix-steam-blank-icon.bat
 
+NOTE: Updated argument handling so wildcard patterns (e.g., *.url) now expand correctly and shortcuts with spaces in their filenames are processed without errors.
+
 Fixes blank icons for Steam game shortcuts.
 
 Ref: https://github.com/mrsimb/steam_blank_icon_fix
